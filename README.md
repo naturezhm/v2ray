@@ -1,1 +1,2 @@
 Removed
+这个是基于candy的一键脚本
